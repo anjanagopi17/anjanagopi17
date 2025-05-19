@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Your Name]
+## 👋 Hello, I'm Anjana Gopi
 - 🔍 Senior Quality Assurance Engineer
 - 🧪 Skilled in Manual & Automation Testing
 - ⚙️ Tools: Selenium, Postman, JIRA, TestNG, API Testing

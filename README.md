@@ -7,10 +7,10 @@
 🔹 5+ years of experience in software testing   
 🔹 Domains: Finance, SaaS, ERP (SAP, Oracle, S/4HANA)  
 🔹 Methodologies: Agile, Scrum 
-🔹💻 Programming/Scripting: Java | Python | SQL ** 
-🔹🧪 Testing: **Selenium (python) | Postman | Cypress | TestNG** 
-🔹🔍 Bug Tracking: **JIRA | Mantis | Devops** 
-🔹☁️ CI/CD: ** GitHub Actions ** 
+🔹 Programming/Scripting: Java | Python | SQL ** 
+🔹 Testing: **Selenium (python) | Postman | Cypress | TestNG** 
+🔹 Bug Tracking: **JIRA | Mantis | Devops** 
+🔹 CI/CD: ** GitHub Actions ** 
 
 
 ---

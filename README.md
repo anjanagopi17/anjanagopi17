@@ -45,7 +45,7 @@ Here are some of my featured QA projects:
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anjana-g-nair-413a32162/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anjana-g-nair-413a32162/)
 - 📧 Email: anjanagopi.qaengineer@gmail.com
 
 ---
